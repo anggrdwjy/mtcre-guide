@@ -3,7 +3,8 @@ MikroTik Certified Routing Engineer Roadmap
 
 # Table of Content
 * [Routing](#)
-  * [RouterBoard](#)
+  * [Routing Abbreviation](#)
+  * [Route Type](#)
 * [Advance Static Routing](#)
   * [Route to Same Destination](#)
   * [Distance Option](#)
